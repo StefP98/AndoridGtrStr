@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="111dp"
+    android:layout_margin="5dp">
+
+    <ImageView
+        android:layout_width="111dp"
+        android:layout_height="111dp"
+        android:id="@+id/guitarThumbnail"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#ffffff"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/GuitarName"
+            android:textSize="20dp"
+            android:text="Name mai mai lung pe doua linii"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/GuitarCategory"
+            android:layout_below="@id/GuitarName"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:text="Type"
+            android:textStyle="italic"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Price"
+                android:id="@+id/GuitarPrice"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:textColor="@color/colorAccent"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

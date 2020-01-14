@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66997277241",
+    "firebase_url": "https://guitarstore-277bb.firebaseio.com",
+    "project_id": "guitarstore-277bb",
+    "storage_bucket": "guitarstore-277bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66997277241:android:7a8d4713cf324d7c2e33e8",
+        "android_client_info": {
+          "package_name": "com.example.android.guitarstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66997277241-ebsodgf50bfit09birea34h0a9lacrta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVR0oqMV30WkmceSv01YxO4DPSKj7J1Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66997277241-ebsodgf50bfit09birea34h0a9lacrta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+{
+  "list": [
+    {
+      "idP": "1",
+      "NAME": "Taylor 210CE DLX",
+      "thumbnail": "taylor210ce",
+      "TYPE": "Chitară Acustică",
+      "price": "1390.00",
+      "descrip": null,
+      "imgs": "\\res\\images\\taylor210ce"
+    },
+    {
+      "idP": "2",
+      "NAME": "PRS John Mayer Silver Sky Tungsten",
+      "thumbnail": "silversky",
+      "TYPE": "Chitară Electrică",
+      "price": "2499.00",
+      "descrip": null,
+      "imgs": "\\res\\images\\silversky"
+    },
+    {
+      "idP": "3",
+      "NAME": "Suhr Mateus Asato Classic S MN BK",
+      "thumbnail": "mateusblack",
+      "TYPE": "Chitară Electrică",
+      "price": "4099.00",
+      "descrip": null,
+      "imgs": "\\res\\images\\mateusblack"
+    }
+  ]
+}
